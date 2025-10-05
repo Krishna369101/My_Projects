@@ -24,13 +24,14 @@ This project demonstrates a complete end-to-end web app architecture — from pl
 -Deployment (optional)	Docker	Containerized app deployment
 
 ## 🗂️ Project Structure
-task-manager/ |
-├── frontend/|
-│   ├── index.html|
-│   ├── styles/|
-│   │   └── main.css|
-│   └── scripts/|
-│       └── main.js|
+"""
+task-manager/ 
+├── frontend/
+│   ├── index.html
+│   ├── styles/
+│   │   └── main.css
+│   └── scripts/
+│       └── main.js
 │
 ├── backend/
 │   ├── app/
@@ -49,6 +50,7 @@ task-manager/ |
 │   └── README.md
 │
 └── README.md
+"""
 
 ## 🧩 Features
 
