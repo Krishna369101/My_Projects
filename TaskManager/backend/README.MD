@@ -25,7 +25,7 @@ This project demonstrates a complete end-to-end web app architecture — from pl
 
 ## 🗂️ Project Structure
 """bash
-task-manager/ 
+tree task-manager/ 
 ├── frontend/
 │   ├── index.html
 │   ├── styles/
